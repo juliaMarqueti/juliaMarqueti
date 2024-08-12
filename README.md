@@ -1,6 +1,6 @@
 - oi, meu nome é julia
 - estou interessada em conhecer coisas novas 
-- atualmente estou aprendendo a mexer github
+- atualmente estou aprendendo a mexer no github
 - como chegar até mim: @juliamarqueti_ 
 - pronomes: julia
 - curioisidade: quero ter um macaco
